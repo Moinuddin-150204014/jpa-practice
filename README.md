@@ -1,2 +1,2 @@
-# jpa-practice
+# security-practice
 Jpa Assignment
